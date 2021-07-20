@@ -141,7 +141,6 @@ img {
 }
 .auth-nav-item{
   display: inline-flex;
-  justify-content: center;
   text-align: center;
   align-items: center;
   background-repeat: no-repeat;
